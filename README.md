@@ -7,6 +7,7 @@ Shipment ETA and delay propagation, take-home for the Aiqon AI internship.
 - `Aiqon_assignment.ipynb`: the whole project (synthetic data, features, models, evaluation, explanations)
 - `Aiqon_assignment_report.pdf`: technical report
 - `requirements.txt`: Python packages
+- `dynamic_supply_chain_logistics_dataset.csv` : dataset used
 
 ## How to run
 
